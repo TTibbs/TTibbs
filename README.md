@@ -5,7 +5,7 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/terry-www/"><img width="52" height="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="linkedin"/></a>
+  <a href="https://www.linkedin.com/in/terry-www/"><img width="45" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="linkedin"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
@@ -14,18 +14,19 @@
 </h2>
 
 <p align="center">
-    <!-- All of these icons are from devicon.dev. Thank you! -->
-    <a href="#"><img width="52" height="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git"/></a>
-    <a href="#"><img width="52" height="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="visual-studio-code-2019"/></a>
-    <a href=""><img width="52" height="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="html5"/></a>
-    <a href=""><img width="52" height="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="css3"/></a>
-    <a href=""><img width="52" height="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript"/></a>
-    <a href=""><img width="52" height="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python"/></a>
-    <a href=""><img width="52" height="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="php-logo"/></a>
-    <a href="#"><img width="52" height="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="react--v1"/></a>
-    <a href="#"><img width="52" height="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactbootstrap/reactbootstrap-original.svg" alt="react-bootstrap"/></a>
-    <a href=""><img width="52" height="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-line-wordmark.svg" alt="node-js"/></a>
-    <a href="#"><img width="52" height="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/stackoverflow/stackoverflow-original.svg" alt="stackoverflow"/></a>
+    <!-- Most of these icons are from devicon.dev. Credits go to them and icons8! -->
+    <a href="https://devicon.dev/"><img width="45" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="html5"/></a>
+    <a href="https://devicon.dev/"><img width="45" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="css3"/></a>
+    <a href="https://devicon.dev/"><img width="45" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript"/></a>
+    <a href="https://icons8.com/"><img width="45" height="45" src="https://img.icons8.com/color/45/000000/solidity.png" alt="solidity"/></a>
+    <a href="https://devicon.dev/"><img width="45" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python"/></a>
+    <a href="https://devicon.dev/"><img width="45" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="php-logo"/></a>
+    <a href="https://devicon.dev/"><img width="45" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git"/></a>
+    <a href="https://devicon.dev/"><img width="45" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="visual-studio-code-2019"/></a>
+    <a href="https://devicon.dev/"><img width="45" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="react--v1"/></a>
+    <a href="https://devicon.dev/"><img width="45" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactbootstrap/reactbootstrap-original.svg" alt="react-bootstrap"/></a>
+    <a href="https://devicon.dev/"><img width="45" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-line-wordmark.svg" alt="node-js"/></a>
+    <a href="https://devicon.dev/"><img width="45" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/stackoverflow/stackoverflow-original.svg" alt="stackoverflow"/></a>
 </p>
 
 <hr>
