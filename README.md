@@ -1,7 +1,6 @@
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20I'm%20Terry;Self-Taught%20Software%20Developer;Always%20learning%20something%20new&font=Poppins%20Code&center=true&width=480&height=50&color=32A1FB&vCenter=true&pause=750&size=24" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ubuntu&weight=700&size=28&duration=4000&pause=1000&color=188EF7&background=FFFFFF00&center=true&vCenter=true&random=false&width=435&lines=Hi%20I'm%20Terry;Self-Taught%20Software%20Developer;Always%20learning%20something%20new" alt="Typing SVG"/></a>
 </p>
 
 <!-- Social icons section -->
@@ -11,7 +10,7 @@
 </p>
 
 <h2 align="center">
-👨‍💻 Languages, Frameworks & Tools
+  <strong>👨‍💻 Languages, Frameworks & Tools</strong>
 </h2>
 
 <p align="center">
