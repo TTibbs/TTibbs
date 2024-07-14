@@ -6,7 +6,6 @@
 <!-- Social icons section -->
 <p align="center">
   <a href="https://www.linkedin.com/in/terry-www/"><img width="45" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="linkedin"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
 <h2 align="center">
