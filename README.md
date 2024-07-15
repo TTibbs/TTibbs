@@ -29,7 +29,7 @@
     <a href="https://devicon.dev/"><img width="45" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-line-wordmark.svg" alt="node-js"/></a>
 </p>
 
-<details> 
+<details align="center"> 
   <summary>
     <h1>
       🤷‍♂️ About My Coding Journey
@@ -42,8 +42,8 @@
     At the beginning of my journey, I enrolled in an AAT Level 2 apprenticeship in accounting. However, once I passed my exams, I realised I did not truly want to pursue it, and looking back at it now, I kinda wish I'd chosen a path into IT, as technology has always fascinated me anyway (I started playing on game consoles at the age of four), I'd often find myself troubleshooting and fixing problems with consoles, I can remember the first time I fixed my PlayStation 3 which had the disc rollers come loose within the disc drive.
   </p>
   
-  <p align="center">
-    <a href="#"><img width="250" height="170" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHBrZ3gwMTF3cjFxdHlmcGJ1bjh6eDF3YW5xbTJxMnRmZnVqbWc0YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5Zesu5VPNGJlm/200.webp"/></a>
+  <p>
+    <a href="https://giphy.com/"><img width="250" height="170" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHBrZ3gwMTF3cjFxdHlmcGJ1bjh6eDF3YW5xbTJxMnRmZnVqbWc0YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5Zesu5VPNGJlm/200.webp"/></a>
   </p>
   
   <h2>
@@ -54,8 +54,8 @@
     Since then, I have worked in various industries, including construction, where I started as a general labourer. Over the 5-6 years of experience in this field, I participated in many types of jobs such as demolition, carpentry, house refurbishments, painting, groundsworks and more. Later, I joined Amazon as a warehouse operative at the end of 2020, and then as a courier from 2021 until January 2022, when I was involved in an accident as a motorcycle courier.
   </p>
   
-  <p align="center">
-    <a href="#"><img width="250" height="170" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWRlMXhzOHZhc2p3a3A2eHZidTVsbTZucHp3Y20zeGtoZDgzcGZsZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/W6SVdYBUlX4Os/giphy.webp"/></a>
+  <p>
+    <a href="https://giphy.com/"><img width="250" height="170" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWRlMXhzOHZhc2p3a3A2eHZidTVsbTZucHp3Y20zeGtoZDgzcGZsZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/W6SVdYBUlX4Os/giphy.webp"/></a>
   </p>
   
   <h2>
@@ -66,32 +66,32 @@
     Not long after this period, while still recovering, I began to learn coding. It was through learning Solidity that I discovered a new passion. I quickly developed skills in HTML and CSS, although much of my learning was intermittent due to the circumstances I was facing at the time. Recently, I have been able to dive deeper into coding and stay consistent with it. I love creating things from scratch with code and the dopamine hits from fixing broken code after trying to implement something new. Alongside my determination to learn and my growth mindset, I'm a great team player and also a very focused individual when working alone. Although it has taken some time to find my feet in the world, I am dedicated to making the necessary changes to improve my job prospects and my life overall.
   </p>
   
-  <p align="center">
-    <a href="#"><img width="250" height="170" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzdlaDU2YzBnOGw2bjJvcHFpaDY0azF1M29pbTV2YjUzaHhvcmVzaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp" /></a>
+  <p>
+    <a href="https://giphy.com/"><img width="250" height="170" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzdlaDU2YzBnOGw2bjJvcHFpaDY0azF1M29pbTV2YjUzaHhvcmVzaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp" /></a>
   </p>
 </details>
 
-<details> 
+<details align="center"> 
   <summary>
     <h1>
       📊 Stats and Activity
     </h1>
   </summary>
 
-  <h2 align="center">
+  <h2>
     🔥 Streak Stats
   </h2>
 
   <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-  <p align="center">
+  <p>
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
       <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
       <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=TTibbs&background=1F222E&ring=32A1FB&sideNums=FFFFFF&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=EBE1E1&hide_border=true" alt="GitHub Streak" /></a>
     </a>
-    <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
+    <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
   </p>
 
-  <h3 align="center">
+  <h3>
     💻 GitHub Profile Stats
   </h3>
 
@@ -101,7 +101,7 @@
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="TTibbs' Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=TTibbs&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=32A1FB&icon_color=32A1FB&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
   <br/>
 
-  <p align="center">Note: Top languages is only a metric of the languages that my public code consists of and doesn't reflect experience or skill level.</p>
+  <p>Note: Top languages is only a metric of the languages that my public code consists of and doesn't reflect experience or skill level.</p>
   
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
