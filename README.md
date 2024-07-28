@@ -29,6 +29,11 @@
     <a href="https://devicon.dev/"><img width="45" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-line-wordmark.svg" alt="node-js"/></a>
 </p>
 
+<h1 align="center">Coffee + Code =</h1>
+<p align="center">
+  <a href="https://keepcalmandprogram.tumblr.com/post/77289964676/this-is-me-coding-on-a-caffeine-high"><img width="350" src="https://64.media.tumblr.com/7716ef547264521e476a067b1c8d2717/tumblr_n1b2c3Xl171st1te9o1_500.gifv" /></a>
+</p>
+
 <details align="center"> 
   <summary>
     <h1>
