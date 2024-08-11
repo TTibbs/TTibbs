@@ -1,4 +1,4 @@
-<p align="center">
+<p>
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ubuntu&weight=700&size=28&duration=4000&pause=1000&color=188EF7&background=FFFFFF00&center=true&vCenter=true&random=false&width=435&lines=Hi%20I'm%20Terry;Self-Taught%20Software%20Developer;Dad%20by%20Day;Coding%20by%20Night;Always%20Learning%20New%20Things" alt="Typing SVG"/></a>
 </p>
@@ -23,10 +23,8 @@
     <a href="https://devicon.dev/"><img width="45" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git"/></a>
     <a href="https://devicon.dev/"><img width="45" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="visual-studio-code-2019"/></a>
     <a href="https://devicon.dev/"><img width="45" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="react--v1"/></a>
-    <a href="https://devicon.dev/"><img width="45" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactbootstrap/reactbootstrap-original.svg" alt="react-bootstrap"/></a>
     <a href="https://devicon.dev/"><img width="45" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next JS" /></a>
     <a href="https://devicon.dev/"><img width="45" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" /></a>
-    <a href="https://devicon.dev/"><img width="45" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-line-wordmark.svg" alt="node-js"/></a>
 </p>
 
 <h1 align="center">Coffee + Code =</h1>
@@ -34,7 +32,7 @@
   <a href="https://keepcalmandprogram.tumblr.com/post/77289964676/this-is-me-coding-on-a-caffeine-high"><img width="350" src="https://64.media.tumblr.com/7716ef547264521e476a067b1c8d2717/tumblr_n1b2c3Xl171st1te9o1_500.gifv" /></a>
 </p>
 
-<details align="center"> 
+<details> 
   <summary>
     <h1>
       🤷‍♂️ About My Coding Journey
@@ -44,10 +42,10 @@
     The Start
   </h2>
   <p>
-    At the beginning of my journey, I enrolled in an AAT Level 2 apprenticeship in accounting. However, once I passed my exams, I realised I did not truly want to pursue it, and looking back at it now, I kinda wish I'd chosen a path into IT, as technology has always fascinated me anyway (I started playing on game consoles at the age of four), I'd often find myself troubleshooting and fixing problems with consoles, I can remember the first time I fixed my PlayStation 3 which had the disc rollers come loose within the disc drive.
+    At the beginning of my journey, I enrolled in an AAT Level 2 apprenticeship in accounting. However, once I passed my exams, I realised I did not truly want to pursue it. Looking back at it now, I kind of wish I'd chosen a path into IT, as technology has always fascinated me anyway (I started playing on game consoles at the age of four), I'd often find myself troubleshooting and fixing problems with consoles, I can remember the first time I fixed my PlayStation 3 which had the disc rollers come loose within the disc drive.
   </p>
   
-  <p>
+  <p align="center">
     <a href="https://giphy.com/"><img width="250" height="170" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHBrZ3gwMTF3cjFxdHlmcGJ1bjh6eDF3YW5xbTJxMnRmZnVqbWc0YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5Zesu5VPNGJlm/200.webp"/></a>
   </p>
   
@@ -59,7 +57,7 @@
     Since then, I have worked in various industries, including construction, where I started as a general labourer. Over the 5-6 years of experience in this field, I participated in many types of jobs such as demolition, carpentry, house refurbishments, painting, groundsworks and more. Later, I joined Amazon as a warehouse operative at the end of 2020, and then as a courier from 2021 until January 2022, when I was involved in an accident as a motorcycle courier.
   </p>
   
-  <p>
+  <p align="center">
     <a href="https://giphy.com/"><img width="250" height="170" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWRlMXhzOHZhc2p3a3A2eHZidTVsbTZucHp3Y20zeGtoZDgzcGZsZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/W6SVdYBUlX4Os/giphy.webp"/></a>
   </p>
   
@@ -71,12 +69,12 @@
     Not long after this period, while still recovering, I began to learn coding. It was through learning Solidity that I discovered a new passion. I quickly developed skills in HTML and CSS, although much of my learning was intermittent due to the circumstances I was facing at the time. Recently, I have been able to dive deeper into coding and stay consistent with it. I love creating things from scratch with code and the dopamine hits from fixing broken code after trying to implement something new. Alongside my determination to learn and my growth mindset, I'm a great team player and also a very focused individual when working alone. Although it has taken some time to find my feet in the world, I am dedicated to making the necessary changes to improve my job prospects and my life overall.
   </p>
   
-  <p>
+  <p align="center">
     <a href="https://giphy.com/"><img width="250" height="170" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzdlaDU2YzBnOGw2bjJvcHFpaDY0azF1M29pbTV2YjUzaHhvcmVzaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp" /></a>
   </p>
 </details>
 
-<details align="center"> 
+<details> 
   <summary>
     <h1>
       📊 Stats and Activity
