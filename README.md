@@ -111,3 +111,5 @@
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="TTibbs's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=TTibbs&bg_color=1F222E&color=32A1FB&line=32A1FB&point=FFFFFF&hide_border=true" /></a>
 
 </details>
+
+![](https://komarev.com/ghpvc/?username=TTibbs&abbreviated=true&color=0097e3)
