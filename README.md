@@ -1,14 +1,3 @@
-<p align="center">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ubuntu&weight=700&size=28&duration=4000&pause=1000&color=188EF7&background=FFFFFF00&center=true&vCenter=true&random=false&width=635&lines=Hi%20I'm%20Terry,%20I%20am%20a%20...;Dad%20|%20Software%20Developer%20|%20Pool%20Enthusiast;and%20I'm%20Always%20Learning%20Something%20New" alt="Typing SVG"/></a>
-</p>
-
-<!-- Social icons section -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/terry-www/"><img width="45" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="linkedin"/></a>
-  <a href="https://dev.to/ttibbs"><img width="45" height="45" src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fthepracticaldev.s3.amazonaws.com%2Fi%2F78hs31fax49uwy6kbxyw.png" alt="dev.to"/></a>
-</p>
-
 <h1 align="center">
   <strong>👨‍💻 Languages, Frameworks & Tools</strong>
 </h1>
