@@ -35,21 +35,7 @@
     <a href="https://devicon.dev/"><img width="45" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" alt="Netlify"/></a>
 </p>
 
-<h1 align="center">Coffee + Code =</h1>
-<p align="center">
-  <a href="https://keepcalmandprogram.tumblr.com/post/77289964676/this-is-me-coding-on-a-caffeine-high"><img width="350" src="https://64.media.tumblr.com/7716ef547264521e476a067b1c8d2717/tumblr_n1b2c3Xl171st1te9o1_500.gifv" /></a>
-</p>
-
-<details> 
-  <summary>
-    <h1>
-      📊 Stats and Activity
-    </h1>
-  </summary>
-
-  <h2>
-    🔥 Streak Stats
-  </h2>
+<h2>🔥 Streak Stats</h2>
 
   <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
   <p>
@@ -75,7 +61,5 @@
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="TTibbs's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=TTibbs&bg_color=1F222E&color=32A1FB&line=32A1FB&point=FFFFFF&hide_border=true" /></a>
-
-</details>
 
 ![](https://komarev.com/ghpvc/?username=TTibbs&abbreviated=true&color=0097e3)
